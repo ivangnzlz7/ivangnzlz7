@@ -2,7 +2,7 @@
 
 **🚀 Desarrollador Full Stack | JavaScript | React | Node.js | APIs**  
 
-Apasionado por construir aplicaciones web **escalables, eficientes y con código limpio**. Me especializo en el desarrollo **end-to-end**, desde interfaces dinámicas hasta APIs robustas y bases de datos optimizadas.  
+Apasionado por construir aplicaciones web **escalables, eficientes y con código limpio**. Me especializo en el area **back-end**, desde interfaces dinámicas hasta APIs robustas y bases de datos optimizadas.  
 
 ## 💻 Tecnologías y Herramientas  
 
@@ -31,6 +31,6 @@ Apasionado por construir aplicaciones web **escalables, eficientes y con código
 
 ## 🌐 Conectemos  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/ivangonzalez19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivangonzalez19)
 [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportafolio.com)  
 
