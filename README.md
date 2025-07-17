@@ -17,12 +17,14 @@ Apasionado por construir aplicaciones web **escalables, eficientes y con código
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
 
 ### Bases de Datos  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## 🔥 Proyectos Destacados  
 
-- **[APV](https://github.com/tuusuario/proyecto)** - Gestion de pacientes de veterinario con React y Node.js. 
+- **[APV](https://apvadmin.netlify.app/)** - Gestion de pacientes de veterinario con React y Node.js. 
 - **[E-commerce](https://github.com/tuusuario/proyecto-2)** - E-commerce de productos con registo, login y autenticacion con JWT.  
 
 ## 📈 Estadísticas de GitHub  
@@ -32,5 +34,5 @@ Apasionado por construir aplicaciones web **escalables, eficientes y con código
 ## 🌐 Conectemos  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivangonzalez19)
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportafolio.com)  
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ivangnzlz7.github.io/Portfolio/)  
 
